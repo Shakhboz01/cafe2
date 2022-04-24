@@ -1,8 +1,10 @@
+import Rest from "./Components/Rest";
+
  
 function App() {
   return (
     <div >
-       dds
+      <Rest/>
     </div>
   );
 }
